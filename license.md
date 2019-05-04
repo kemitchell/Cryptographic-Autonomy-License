@@ -180,9 +180,9 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 9.  "Modified Work" means any work containing, directly combining with, derivative of, or Publicly Performing elements included in or derived from the Work.
 
-10.  "Object Code" means any form of the work other than Source Code form, provided by Licensor or the result of any compilation process applied to the Source Code.
+10. "Object Code" means any form of the work other than Source Code form, provided by Licensor or the result of any compilation process applied to the Source Code.
 
-11.  "Open Source License" means any license approved by the Open Source Initiative (see OpenSource.org).
+11. "Open Source License" means any license approved by the Open Source Initiative (see OpenSource.org).
 
 12. "Process User Data" (or "Processing User Data") means:
 
@@ -194,13 +194,13 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
     using at least in part the Work provided under this License, where User Data is an input or an output to the system or method.
 
-13.  "Public Performance" (or "Publicly Performing") means using the Software to take any action that implicates the rights of public performance or public display of a work under copyright law, specifically including making aspects of the Software, including any interfaces used for access to or manipulation of User Data, directly or indirectly available to the public.
+13. "Public Performance" (or "Publicly Performing") means using the Software to take any action that implicates the rights of public performance or public display of a work under copyright law, specifically including making aspects of the Software, including any interfaces used for access to or manipulation of User Data, directly or indirectly available to the public.
 
-14.  "Recipient" means any non-Affiliate third party being offered the Software, receiving the Software, or receiving a Public Performance of any interface of the Software from You.
+14. "Recipient" means any non-Affiliate third party being offered the Software, receiving the Software, or receiving a Public Performance of any interface of the Software from You.
 
-15.  "Software" means either Source Code or Object Code.
+15. "Software" means either Source Code or Object Code.
 
-16.  "Source Code" means the form of the work preferred for making modifications, including any comments, design documentation, help materials, installation instructions, cryptographic keys, and any information reasonably necessary to compile the Source Code into Object Code or Process User Data using generated Object Code.
+16. "Source Code" means the form of the work preferred for making modifications, including any comments, design documentation, help materials, installation instructions, cryptographic keys, and any information reasonably necessary to compile the Source Code into Object Code or Process User Data using generated Object Code.
 
 17. "User Data" means any data that is either:
 
@@ -210,7 +210,7 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
     the Work or a Modified Work, in which a third party other than the Licensee has a Lawful Interest in the data.
 
-18.  "Work" means any original creation protectable under the patent, copyright, or database protection rights of either the Licensor's or the Licensee's jurisdiction.
+18. "Work" means any original creation protectable under the patent, copyright, or database protection rights of either the Licensor's or the Licensee's jurisdiction.
 
 ## Other Provisions
 [Other Provisions]: #other-provisions
