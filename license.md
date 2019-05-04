@@ -28,7 +28,7 @@ The following reservations apply to the permissions granted in section 1.1:
 
 1.  Licensor does not grant any patent license for claims that are only infringed due to the modification of the Work or the combination of the Work, directly or indirectly, with any other component, including other Software or hardware.
 
-2.  Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in section 2.1 of this License.  Describing a Modified Work as being derived from the Work, or compatible or not compatible with the Work, is allowed as a fair or nominative use.
+2.  Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in section 2.1 of this License.  Describing a Modified Work as being derived from the Work, or compatible or not compatible with the Work, is allowed as a fair or nominative use.
 
 ## 2.  Conditions
 
