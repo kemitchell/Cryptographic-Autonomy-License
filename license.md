@@ -226,12 +226,12 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 A Licensor may require that any action or suit by a Licensee relating to a Work provided by Licensor under this License may be brought only in the courts of a particular jurisdiction and under the laws of a particular jurisdiction (excluding its conflict-of-law provisions), if Licensor provides conspicuous notice of the particular jurisdiction to all Licensees.
 
-#### Interpretation of Provisions
+### Interpretation of Provisions
 [Interpretation of Provisions]: #interpretation-of-provisions
 
 To the extent allowable under the Applicable Jurisdiction, provision of User Data in compliance with the conditions in [No Limits on Independently Processing] and [Provide Copies of User Data] shall be interpreted consistently with the formatting and transmission requirements of General Data Protection Regulation (EU) 2016/679 ("GDPR") Arts. 15(3) and 20(1).  The number of copies of User Data provided in compliance with the conditions in [Provide Copies of User Data] shall at least the same number needed to comply with GDPR Art. 15(3).
 
-#### No extension beyond intellectual property
+### No extension beyond intellectual property
 [No extension beyond intellectual property]: #no-extension-beyond-intellectual-property
 
 The scope of the permissions granted in [Grants] shall be interpreted to be coextensive with the rights granted to the Licensor under the intellectual property laws of the jurisdiction in which this License is enforced.  The scope of the permissions granted also includes any necessary permissions, such as for moral rights, needed in a jurisdiction to exercise the permissions explicitly granted in [Grants].
