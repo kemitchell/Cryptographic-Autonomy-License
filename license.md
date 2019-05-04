@@ -36,7 +36,13 @@ The following conditions apply to any exercise of the permissions given in secti
 
 ### 2.1.  Attribution
 
-You must a) retain all copyright, patent, or trademark notices contained in the Source Code, as well as any notices of licensing, authorship, or attribution, and b) provide all such notices to each Recipient, together with a statement acknowledging the use of the Software.  Notices may be provided directly to a Recipient or via an easy-to-find hyperlink to an Internet location also providing Access to Source Code. 
+You must:
+
+1.  retain all copyright, patent, or trademark notices contained in the Source Code, as well as any notices of licensing, authorship, or attribution, and 
+
+2.  provide all such notices to each Recipient, together with a statement acknowledging the use of the Software.
+
+Notices may be provided directly to a Recipient or via an easy-to-find hyperlink to an Internet location also providing Access to Source Code. 
 
 ### 2.2.  Licensed Distribution
 
@@ -48,7 +54,11 @@ Subject to the exception in section 2.4, You must provide to each Recipient of t
 
 #### 2.2.2.  Distribution of Source Code for a Modified Work
 
-Subject to the exception in section 2.4, You must provide to each Recipient of a Modified Work Access to Source Code corresponding to those portions of the Work remaining in the Modified Work as well as  the modifications used by You to create the Modified Work.  The Source Code corresponding to the modifications in a Modified Work must be provided to the Recipient either a) under this License, or b) under a Compatible Open Source License.
+Subject to the exception in section 2.4, You must provide to each Recipient of a Modified Work Access to Source Code corresponding to those portions of the Work remaining in the Modified Work as well as  the modifications used by You to create the Modified Work.  The Source Code corresponding to the modifications in a Modified Work must be provided to the Recipient either:
+
+1.  under this License, or
+
+2.  under a Compatible Open Source License.
 
 ### 2.3.  Maintaining User Autonomy
 
@@ -64,7 +74,7 @@ You must refrain from using the permissions given under this License to interfer
 
 5.  You waive any claim that the capabilities of the Work were limited or modified as a means of enforcing the legal rights of third parties against Recipients.
 
-Other than the conditions in sections 2.2 and 2.3(b), nothing in this License requires You to provide processing services to anyone.
+Other than the conditions in sections 2.2 and 2.3.2, nothing in this License requires You to provide processing services to anyone.
 
 ### 2.4.  Combined Work Exception
 
@@ -80,7 +90,13 @@ The term of this License begins when You receive the Work, and continues until t
 
 ### 4.1.  Termination for Non-Compliance; Reinstatement
 
-This License terminates automatically if You fail to comply with any of the conditions in section 2.  As a special exception to termination for non-compliance, Your permissions for the Work under this License will automatically be reinstated if You come into compliance with all the conditions in section 2 within sixty days of being notified by Licensor or an intended third party beneficiary of Your noncompliance.  You are eligible for reinstatement of permissions for the Work one time only, and only for the sixty days immediately after becoming aware of noncompliance.  Loss of permissions granted for the Work under this License due to either a) sustained noncompliance lasting more than sixty days or b) subsequent termination for noncompliance after reinstatement, is permanent, unless rights are specifically restored by Licensor in writing.
+This License terminates automatically if You fail to comply with any of the conditions in section 2.  As a special exception to termination for non-compliance, Your permissions for the Work under this License will automatically be reinstated if You come into compliance with all the conditions in section 2 within sixty days of being notified by Licensor or an intended third party beneficiary of Your noncompliance.  You are eligible for reinstatement of permissions for the Work one time only, and only for the sixty days immediately after becoming aware of noncompliance.  Loss of permissions granted for the Work under this License due to either:
+
+1.  sustained noncompliance lasting more than sixty days or 
+
+2.  subsequent termination for noncompliance after reinstatement,
+
+is permanent, unless rights are specifically restored by Licensor in writing.
 
 ### 4.2.  Termination Due to Litigation
 
@@ -98,7 +114,13 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 ## 6.  Definitions
 
-1.  "Access to Source Code" means any of  a) a copy of, or b) no-charge unrestricted network access to, the Source Code.  Network access to the Source Code may be provided by You or by a third party, such as a public software repository, and must persist during the same period in which You exercise any of the permissions granted to You under this License and for at least one (1) year thereafter.
+1.  "Access to Source Code" means any of 
+
+    1.  a copy of, or
+
+    2.  no-charge unrestricted network access to,
+
+    the Source Code.  Network access to the Source Code may be provided by You or by a third party, such as a public software repository, and must persist during the same period in which You exercise any of the permissions granted to You under this License and for at least one (1) year thereafter.
 
 2.  "Affiliate" means any other entity that, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, the Licensee.
 
@@ -130,7 +152,13 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 16.  "Source Code" means the form of the work preferred for making modifications, including any comments, design documentation, help materials, installation instructions, cryptographic keys, and any information reasonably necessary to compile the Source Code into Object Code or Process User Data using generated Object Code.
 
-17.  "User Data" means any data that is either a) an input to, or b) an output from, the Work or a Modified Work, in which a third party other than the Licensee has a Lawful Interest in the data.
+17. "User Data" means any data that is either:
+
+    1.  an input to, or
+
+    2.  an output from,
+
+    the Work or a Modified Work, in which a third party other than the Licensee has a Lawful Interest in the data.
 
 18.  "Work" means any original creation protectable under the patent, copyright, or database protection rights of either the Licensor's or the Licensee's jurisdiction.
 
@@ -142,7 +170,7 @@ A Licensor may require that any action or suit by a Licensee relating to a Work 
 
 #### 7.1.1.  Interpretation of Provisions
 
-To the extent allowable under the Applicable Jurisdiction, provision of User Data in compliance with the conditions in section 2.3(a) and 2.3(b)  shall be interpreted consistently with the formatting and transmission requirements of General Data Protection Regulation (EU) 2016/679 ("GDPR") Arts. 15(3) and 20(1).  The number of copies of User Data provided in compliance with the conditions in section 2.3(b) shall at least the same number needed to comply with GDPR Art. 15(3).
+To the extent allowable under the Applicable Jurisdiction, provision of User Data in compliance with the conditions in section 2.3.1 and 2.3.2 shall be interpreted consistently with the formatting and transmission requirements of General Data Protection Regulation (EU) 2016/679 ("GDPR") Arts. 15(3) and 20(1).  The number of copies of User Data provided in compliance with the conditions in section 2.3.2 shall at least the same number needed to comply with GDPR Art. 15(3).
 
 #### 7.1.2.  No extension beyond intellectual property
 
