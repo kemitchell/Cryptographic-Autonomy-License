@@ -16,7 +16,7 @@ The owner may also specify in the same location as the notice a jurisdiction for
 
 ## 1.1.  Grants
 
-Conditioned on compliance with section 2, and subject to the reservations of section 1.2, you have world-wide, royalty-free, non-exclusive permission to:
+Conditioned on compliance with [Conditions], and subject to the reservations of [Limitations on Grants], you have world-wide, royalty-free, non-exclusive permission to:
 
 1.  Take any action with the Work or a Modified Work that would infringe the copyright or database protection laws of an Applicable Jurisdiction applying to the Work, including Publicly Performing any interface derived from the Work; and
 
@@ -24,15 +24,15 @@ Conditioned on compliance with section 2, and subject to the reservations of sec
 
 ## 1.2.  Limitations on Grants
 
-The following reservations apply to the permissions granted in section 1.1:
+The following reservations apply to the permissions granted in [Grants]:
 
 1.  Licensor does not grant any patent license for claims that are only infringed due to the modification of the Work or the combination of the Work, directly or indirectly, with any other component, including other Software or hardware.
 
-2.  Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in section 2.1 of this License.  Describing a Modified Work as being derived from the Work, or compatible or not compatible with the Work, is allowed as a fair or nominative use.
+2.  Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in [Attribution].  Describing a Modified Work as being derived from the Work, or compatible or not compatible with the Work, is allowed as a fair or nominative use.
 
 ## 2.  Conditions
 
-The following conditions apply to any exercise of the permissions given in section 1.  These are the only conditions imposed by this license relative to the Work; any other exercise of the permissions given in section 1 is allowed.
+The following conditions apply to any exercise of the permissions given in [Grants].  These are the only conditions imposed by this license relative to the Work; any other exercise of the permissions given in [Grants] is allowed.
 
 ### 2.1.  Attribution
 
@@ -50,11 +50,11 @@ Any distribution, Public Performance, sale, or offer for sale of the Work to a R
 
 #### 2.2.1.  Distribution of Source Code for an Unmodified Work
 
-Subject to the exception in section 2.4, You must provide to each Recipient of the Work Access to all the Source Code for the Work provided, sold, or offered to the Recipient.
+Subject to the exception in [Combined Work Exception], You must provide to each Recipient of the Work Access to all the Source Code for the Work provided, sold, or offered to the Recipient.
 
 #### 2.2.2.  Distribution of Source Code for a Modified Work
 
-Subject to the exception in section 2.4, You must provide to each Recipient of a Modified Work Access to Source Code corresponding to those portions of the Work remaining in the Modified Work as well as  the modifications used by You to create the Modified Work.  The Source Code corresponding to the modifications in a Modified Work must be provided to the Recipient either:
+Subject to the exception in [Combined Work Exception], You must provide to each Recipient of a Modified Work Access to Source Code corresponding to those portions of the Work remaining in the Modified Work as well as  the modifications used by You to create the Modified Work.  The Source Code corresponding to the modifications in a Modified Work must be provided to the Recipient either:
 
 1.  under this License, or
 
@@ -64,21 +64,33 @@ Subject to the exception in section 2.4, You must provide to each Recipient of a
 
 You must refrain from using the permissions given under this License to interfere with Recipient's quiet enjoyment of any Lawful Interest in their own User Data.  This includes:
 
+#### No Limits on Independently Processing
+
 1.  You may not, by means of cryptographic controls, technological protection measures, or any other method, limit a third party from independently Processing User Data in which they have a Lawful Interest;
+
+#### Provide Copies of User Data
 
 2.  Throughout any period in which You exercise any of the permissions granted to You under this License, You must also provide to any third party with which you have an enforceable legal agreement, a no-charge copy, provided in a commonly used electronic form, of the User Data in your possession in which that third party has a Lawful Interest, to the extent that such User Data is available to You for use in conjunction with the Work;
 
+#### No Abusing Capabilities
+
 3.  You may not use the Software to control any cryptographic keys, seeds, or hashes pertaining to third parties where such control would prevent the third party from independently exercising the permissions granted under this License;
+
+#### Permit Circumvention
 
 4.  You waive any legal power to forbid circumvention of technical protection measures that include use of the Work; and
 
+#### No Self-Help
+
 5.  You waive any claim that the capabilities of the Work were limited or modified as a means of enforcing the legal rights of third parties against Recipients.
 
-Other than the conditions in sections 2.2 and 2.3.2, nothing in this License requires You to provide processing services to anyone.
+#### No Other Processing Obligations
+
+Other than the conditions in [Licensed Distribution] and [Provide Copies of User Data], nothing in this License requires You to provide processing services to anyone.
 
 ### 2.4.  Combined Work Exception
 
-As an exception to the conditions in sections 2.2.1 and 2.2.2, any Source Code files marked by the Licensor as having the "Combined Work Exception," or any Object Code exclusively resulting from Source Code files so marked, may be combined with other Software into a "Larger Work." So long as you comply with the conditions in 2.1, 2.2, and 2.3 relative to the Source Code provided to you by Licensor, any other Software in the Larger Work as well as the Larger Work as a whole may be licensed under the terms of your choice.
+As an exception to the conditions in [Distribution of Source Code for an Unmodified Work] and [Distribution of Source Code for a Modified Work], any Source Code files marked by the Licensor as having the "Combined Work Exception," or any Object Code exclusively resulting from Source Code files so marked, may be combined with other Software into a "Larger Work." So long as you comply with the conditions in [Attribution], [Licensed Distribution], and [Maintaining User Autonomy] relative to the Source Code provided to you by Licensor, any other Software in the Larger Work as well as the Larger Work as a whole may be licensed under the terms of your choice.
 
 ## 3.  Acceptance and Remedies
 
@@ -86,11 +98,11 @@ By taking any action that, absent this License, would infringe Licensor's intell
 
 ## 4.  Term and Termination
 
-The term of this License begins when You receive the Work, and continues until terminated for any of the reasons described herein, or until all Licensor's intellectual property rights in the Software expire, whichever comes first ("Term").  If this License is terminated for any reason, all permissions granted to You under section 1 by any Licensor automatically terminate.  You will immediately cease exercising any permissions granted in this License relative to the Work, including as part of any Modified Work.
+The term of this License begins when You receive the Work, and continues until terminated for any of the reasons described herein, or until all Licensor's intellectual property rights in the Software expire, whichever comes first ("Term").  If this License is terminated for any reason, all permissions granted to You under [License Grant] by any Licensor automatically terminate.  You will immediately cease exercising any permissions granted in this License relative to the Work, including as part of any Modified Work.
 
 ### 4.1.  Termination for Non-Compliance; Reinstatement
 
-This License terminates automatically if You fail to comply with any of the conditions in section 2.  As a special exception to termination for non-compliance, Your permissions for the Work under this License will automatically be reinstated if You come into compliance with all the conditions in section 2 within sixty days of being notified by Licensor or an intended third party beneficiary of Your noncompliance.  You are eligible for reinstatement of permissions for the Work one time only, and only for the sixty days immediately after becoming aware of noncompliance.  Loss of permissions granted for the Work under this License due to either:
+This License terminates automatically if You fail to comply with any of the conditions in [Conditions].  As a special exception to termination for non-compliance, Your permissions for the Work under this License will automatically be reinstated if You come into compliance with all the conditions in [Conditions] within sixty days of being notified by Licensor or an intended third party beneficiary of Your noncompliance.  You are eligible for reinstatement of permissions for the Work one time only, and only for the sixty days immediately after becoming aware of noncompliance.  Loss of permissions granted for the Work under this License due to either:
 
 1.  sustained noncompliance lasting more than sixty days or 
 
@@ -170,11 +182,11 @@ A Licensor may require that any action or suit by a Licensee relating to a Work 
 
 #### 7.1.1.  Interpretation of Provisions
 
-To the extent allowable under the Applicable Jurisdiction, provision of User Data in compliance with the conditions in section 2.3.1 and 2.3.2 shall be interpreted consistently with the formatting and transmission requirements of General Data Protection Regulation (EU) 2016/679 ("GDPR") Arts. 15(3) and 20(1).  The number of copies of User Data provided in compliance with the conditions in section 2.3.2 shall at least the same number needed to comply with GDPR Art. 15(3).
+To the extent allowable under the Applicable Jurisdiction, provision of User Data in compliance with the conditions in [No Limits on Independently Processing] and [Provide Copies of User Data] shall be interpreted consistently with the formatting and transmission requirements of General Data Protection Regulation (EU) 2016/679 ("GDPR") Arts. 15(3) and 20(1).  The number of copies of User Data provided in compliance with the conditions in [Provide Copies of User Data] shall at least the same number needed to comply with GDPR Art. 15(3).
 
 #### 7.1.2.  No extension beyond intellectual property
 
-The scope of the permissions granted in section 1.1 shall be interpreted to be coextensive with the rights granted to the Licensor under the intellectual property laws of the jurisdiction in which this License is enforced.  The scope of the permissions granted also includes any necessary permissions, such as for moral rights, needed in a jurisdiction to exercise the permissions explicitly granted in section 1.1.
+The scope of the permissions granted in [Grants] shall be interpreted to be coextensive with the rights granted to the Licensor under the intellectual property laws of the jurisdiction in which this License is enforced.  The scope of the permissions granted also includes any necessary permissions, such as for moral rights, needed in a jurisdiction to exercise the permissions explicitly granted in [Grants].
 
 ### 7.2.  No Sublicensing
 
@@ -182,7 +194,7 @@ This License is not sublicensable.  Each time You provide the Work or a Modified
 
 ### 7.3.  Attorneys' Fees
 
-In any action to enforce the terms of this License, or seeking damages relating thereto,  including by an intended third party beneficiary, the prevailing party shall be entitled to recover its costs and expenses, including, without limitation, reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action.  This section shall survive the termination of this License.
+In any action to enforce the terms of this License, or seeking damages relating thereto,  including by an intended third party beneficiary, the prevailing party shall be entitled to recover its costs and expenses, including, without limitation, reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action.  [Attorneys' Fees] shall survive the termination of this License.
 
 ### 7.4.  No Waiver
 
