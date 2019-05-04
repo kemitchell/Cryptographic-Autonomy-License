@@ -20,7 +20,7 @@ The owner may also specify in the same location as the notice a jurisdiction for
 
 Conditioned on compliance with [Conditions], and subject to the reservations of [Limitations on Grants], you have world-wide, royalty-free, non-exclusive permission to:
 
-1.  Take any action with the Work or a Modified Work that would infringe the copyright or database protection laws of an Applicable Jurisdiction applying to the Work, including Publicly Performing any interface derived from the Work; and
+1.  Take any action with the Work or a Modified Work that would infringe the copyright or database protection laws of an Applicable Jurisdiction applying to the Work, including Publicly Performing any interface derived from the Work, and
 
 2.  Take any action with the Work or a Modified Work that would infringe any patent claims Licensable by Licensor, to the extent that those claims are embodied in the Work as distributed by Licensor.
 
@@ -162,9 +162,9 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 3.  "Applicable Jurisdiction" means any of:
 
-    1.  the jurisdiction where the Licensor is located;
+    1.  the jurisdiction where the Licensor is located,
 
-    2.  the jurisdiction where the Licensee is located; or 
+    2.  the jurisdiction where the Licensee is located, or 
 
     3.  any jurisdiction in which the Licensee is subject to the legal system.
 
