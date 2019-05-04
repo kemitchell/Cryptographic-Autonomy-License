@@ -164,7 +164,13 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 4.  "Compatible Open Source License" means an Open Source License that allows Object Code that is created using both Source Code provided under this License and Source Code provided under the Open Source License to be distributed together as a single work.
 
-5.  "Lawful Interest" means either 1) an ownership interest or 2) a non-ownership property or possessory interest, including but not limited to lawful possession of a particular copy of a work.
+5.  "Lawful Interest" means either:
+
+    1.  an ownership interest or
+
+    2.  a non-ownership property or possessory interest,
+
+    including but not limited to lawful possession of a particular copy of a work.
 
 6.  "Licensable" means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently, any and all of the rights conveyed by this License.
 
@@ -178,7 +184,15 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 11.  "Open Source License" means any license approved by the Open Source Initiative (see OpenSource.org).
 
-12.  "Process User Data" (or "Processing User Data") means 1) use a system, 2) perform a method, or 3) cause any other party to use a system or perform a method, using at least in part the Work provided under this License, where User Data is an input or an output to the system or method.
+12.  "Process User Data" (or "Processing User Data") means:
+
+    1.  use a system,
+
+    2.  perform a method, or
+
+    3.  cause any other party to use a system or perform a method,
+
+    using at least in part the Work provided under this License, where User Data is an input or an output to the system or method.
 
 13.  "Public Performance" (or "Publicly Performing") means using the Software to take any action that implicates the rights of public performance or public display of a work under copyright law, specifically including making aspects of the Software, including any interfaces used for access to or manipulation of User Data, directly or indirectly available to the public.
 
