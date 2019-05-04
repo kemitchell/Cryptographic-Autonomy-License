@@ -76,22 +76,22 @@ You must refrain from using the permissions given under this License to interfer
 #### No Limits on Independently Processing
 [No Limits on Independently Processing]: #no-limits-on-independently-processing
 
-You may not, by means of cryptographic controls, technological protection measures, or any other method, limit a third party from independently Processing User Data in which they have a Lawful Interest;
+You may not, by means of cryptographic controls, technological protection measures, or any other method, limit a third party from independently Processing User Data in which they have a Lawful Interest.
 
 #### Provide Copies of User Data
 [Provide Copies of User Data]: #provide-copies-of-user-data
 
-Throughout any period in which You exercise any of the permissions granted to You under this License, You must also provide to any third party with which you have an enforceable legal agreement, a no-charge copy, provided in a commonly used electronic form, of the User Data in your possession in which that third party has a Lawful Interest, to the extent that such User Data is available to You for use in conjunction with the Work;
+Throughout any period in which You exercise any of the permissions granted to You under this License, You must also provide to any third party with which you have an enforceable legal agreement, a no-charge copy, provided in a commonly used electronic form, of the User Data in your possession in which that third party has a Lawful Interest, to the extent that such User Data is available to You for use in conjunction with the Work.
 
 #### No Abusing Capabilities
 [No Abusing Capabilities]: #no-abusing-capabilities
 
-You may not use the Software to control any cryptographic keys, seeds, or hashes pertaining to third parties where such control would prevent the third party from independently exercising the permissions granted under this License;
+You may not use the Software to control any cryptographic keys, seeds, or hashes pertaining to third parties where such control would prevent the third party from independently exercising the permissions granted under this License.
 
 #### Permit Circumvention
 [Permit Circumvention]: #permit-circumvention
 
-You waive any legal power to forbid circumvention of technical protection measures that include use of the Work; and
+You waive any legal power to forbid circumvention of technical protection measures that include use of the Work.
 
 #### No Self-Help
 [No Self-Help]: #no-self-help
