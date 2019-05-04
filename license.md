@@ -125,7 +125,7 @@ This License terminates automatically if You fail to comply with any of the cond
 
 1.  sustained noncompliance lasting more than sixty days or 
 
-2.  subsequent termination for noncompliance after reinstatement,
+2.  subsequent termination for noncompliance after reinstatement
 
 is permanent, unless rights are specifically restored by Licensor in writing.
 
@@ -152,9 +152,9 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 1.  "Access to Source Code" means any of 
 
-    1.  a copy of, or
+    1.  a copy of or
 
-    2.  no-charge unrestricted network access to,
+    2.  no-charge unrestricted network access to
 
     the Source Code.  Network access to the Source Code may be provided by You or by a third party, such as a public software repository, and must persist during the same period in which You exercise any of the permissions granted to You under this License and for at least one (1) year thereafter.
 
@@ -174,7 +174,7 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
     1.  an ownership interest or
 
-    2.  a non-ownership property or possessory interest,
+    2.  a non-ownership property or possessory interest
 
     including but not limited to lawful possession of a particular copy of a work.
 
@@ -210,9 +210,9 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 17. "User Data" means any data that is either:
 
-    1.  an input to, or
+    1.  an input to or
 
-    2.  an output from,
+    2.  an output from
 
     the Work or a Modified Work, in which a third party other than the Licensee has a Lawful Interest in the data.
 
