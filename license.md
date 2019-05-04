@@ -160,7 +160,13 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 2.  "Affiliate" means any other entity that, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, the Licensee.
 
-3.  "Applicable Jurisdiction" means any of: i) the jurisdiction where the Licensor is located; ii) the jurisdiction where the Licensee is located; or iii) any jurisdiction in which the Licensee is subject to the legal system.
+3.  "Applicable Jurisdiction" means any of:
+
+    1.  the jurisdiction where the Licensor is located;
+
+    2.  the jurisdiction where the Licensee is located; or 
+
+    3.  any jurisdiction in which the Licensee is subject to the legal system.
 
 4.  "Compatible Open Source License" means an Open Source License that allows Object Code that is created using both Source Code provided under this License and Source Code provided under the Open Source License to be distributed together as a single work.
 
