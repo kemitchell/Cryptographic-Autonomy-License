@@ -18,17 +18,17 @@ The owner may also specify in the same location as the notice a jurisdiction for
 
 Conditioned on compliance with section 2, and subject to the reservations of section 1.2, you have world-wide, royalty-free, non-exclusive permission to:
 
-a.  Take any action with the Work or a Modified Work that would infringe the copyright or database protection laws of an Applicable Jurisdiction applying to the Work, including Publicly Performing any interface derived from the Work; and
+1.  Take any action with the Work or a Modified Work that would infringe the copyright or database protection laws of an Applicable Jurisdiction applying to the Work, including Publicly Performing any interface derived from the Work; and
 
-b.  Take any action with the Work or a Modified Work that would infringe any patent claims Licensable by Licensor, to the extent that those claims are embodied in the Work as distributed by Licensor.
+2.  Take any action with the Work or a Modified Work that would infringe any patent claims Licensable by Licensor, to the extent that those claims are embodied in the Work as distributed by Licensor.
 
 ## 1.2.  Limitations on Grants
 
 The following reservations apply to the permissions granted in section 1.1:
 
-a.  Licensor does not grant any patent license for claims that are only infringed due to the modification of the Work or the combination of the Work, directly or indirectly, with any other component, including other Software or hardware.
+1.  Licensor does not grant any patent license for claims that are only infringed due to the modification of the Work or the combination of the Work, directly or indirectly, with any other component, including other Software or hardware.
 
-b.  Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in section 2.1 of this License.  Describing a Modified Work as being derived from the Work, or compatible or not compatible with the Work, is allowed as a fair or nominative use.
+2.  Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in section 2.1 of this License.  Describing a Modified Work as being derived from the Work, or compatible or not compatible with the Work, is allowed as a fair or nominative use.
 
 ## 2.  Conditions
 
@@ -54,15 +54,15 @@ Subject to the exception in section 2.4, You must provide to each Recipient of a
 
 You must refrain from using the permissions given under this License to interfere with Recipient's quiet enjoyment of any Lawful Interest in their own User Data.  This includes:
 
-a.  You may not, by means of cryptographic controls, technological protection measures, or any other method, limit a third party from independently Processing User Data in which they have a Lawful Interest;
+1.  You may not, by means of cryptographic controls, technological protection measures, or any other method, limit a third party from independently Processing User Data in which they have a Lawful Interest;
 
-b.  Throughout any period in which You exercise any of the permissions granted to You under this License, You must also provide to any third party with which you have an enforceable legal agreement, a no-charge copy, provided in a commonly used electronic form, of the User Data in your possession in which that third party has a Lawful Interest, to the extent that such User Data is available to You for use in conjunction with the Work;
+2.  Throughout any period in which You exercise any of the permissions granted to You under this License, You must also provide to any third party with which you have an enforceable legal agreement, a no-charge copy, provided in a commonly used electronic form, of the User Data in your possession in which that third party has a Lawful Interest, to the extent that such User Data is available to You for use in conjunction with the Work;
 
-c.  You may not use the Software to control any cryptographic keys, seeds, or hashes pertaining to third parties where such control would prevent the third party from independently exercising the permissions granted under this License;
+3.  You may not use the Software to control any cryptographic keys, seeds, or hashes pertaining to third parties where such control would prevent the third party from independently exercising the permissions granted under this License;
 
-d.  You waive any legal power to forbid circumvention of technical protection measures that include use of the Work; and
+4.  You waive any legal power to forbid circumvention of technical protection measures that include use of the Work; and
 
-e.  You waive any claim that the capabilities of the Work were limited or modified as a means of enforcing the legal rights of third parties against Recipients.
+5.  You waive any claim that the capabilities of the Work were limited or modified as a means of enforcing the legal rights of third parties against Recipients.
 
 Other than the conditions in sections 2.2 and 2.3(b), nothing in this License requires You to provide processing services to anyone.
 
@@ -98,41 +98,41 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 ## 6.  Definitions
 
-a.  "Access to Source Code" means any of  a) a copy of, or b) no-charge unrestricted network access to, the Source Code.  Network access to the Source Code may be provided by You or by a third party, such as a public software repository, and must persist during the same period in which You exercise any of the permissions granted to You under this License and for at least one (1) year thereafter.
+1.  "Access to Source Code" means any of  a) a copy of, or b) no-charge unrestricted network access to, the Source Code.  Network access to the Source Code may be provided by You or by a third party, such as a public software repository, and must persist during the same period in which You exercise any of the permissions granted to You under this License and for at least one (1) year thereafter.
 
-b.  "Affiliate" means any other entity that, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, the Licensee.
+2.  "Affiliate" means any other entity that, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, the Licensee.
 
-c.  "Applicable Jurisdiction" means any of: i) the jurisdiction where the Licensor is located; ii) the jurisdiction where the Licensee is located; or iii) any jurisdiction in which the Licensee is subject to the legal system.
+3.  "Applicable Jurisdiction" means any of: i) the jurisdiction where the Licensor is located; ii) the jurisdiction where the Licensee is located; or iii) any jurisdiction in which the Licensee is subject to the legal system.
 
-d.  "Compatible Open Source License" means an Open Source License that allows Object Code that is created using both Source Code provided under this License and Source Code provided under the Open Source License to be distributed together as a single work.
+4.  "Compatible Open Source License" means an Open Source License that allows Object Code that is created using both Source Code provided under this License and Source Code provided under the Open Source License to be distributed together as a single work.
 
-e.  "Lawful Interest" means either 1) an ownership interest or 2) a non-ownership property or possessory interest, including but not limited to lawful possession of a particular copy of a work.
+5.  "Lawful Interest" means either 1) an ownership interest or 2) a non-ownership property or possessory interest, including but not limited to lawful possession of a particular copy of a work.
 
-f.  "Licensable" means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently, any and all of the rights conveyed by this License.
+6.  "Licensable" means having the right to grant, to the maximum extent possible, whether at the time of the initial grant or subsequently, any and all of the rights conveyed by this License.
 
-g.  "Licensee" (also "You" or "Your") means an individual or a legal entity exercising rights under this License.
+7.  "Licensee" (also "You" or "Your") means an individual or a legal entity exercising rights under this License.
 
-h.  "Licensor" means the individual or legal entity that creates, contributes to the creation of, or owns a Work subject to this License.
+8.  "Licensor" means the individual or legal entity that creates, contributes to the creation of, or owns a Work subject to this License.
 
-i.  "Modified Work" means any work containing, directly combining with, derivative of, or Publicly Performing elements included in or derived from the Work.
+9.  "Modified Work" means any work containing, directly combining with, derivative of, or Publicly Performing elements included in or derived from the Work.
 
-j.  "Object Code" means any form of the work other than Source Code form, provided by Licensor or the result of any compilation process applied to the Source Code.
+10.  "Object Code" means any form of the work other than Source Code form, provided by Licensor or the result of any compilation process applied to the Source Code.
 
-k.  "Open Source License" means any license approved by the Open Source Initiative (see OpenSource.org).
+11.  "Open Source License" means any license approved by the Open Source Initiative (see OpenSource.org).
 
-l.  "Process User Data" (or "Processing User Data") means 1) use a system, 2) perform a method, or 3) cause any other party to use a system or perform a method, using at least in part the Work provided under this License, where User Data is an input or an output to the system or method.
+12.  "Process User Data" (or "Processing User Data") means 1) use a system, 2) perform a method, or 3) cause any other party to use a system or perform a method, using at least in part the Work provided under this License, where User Data is an input or an output to the system or method.
 
-m.  "Public Performance" (or "Publicly Performing") means using the Software to take any action that implicates the rights of public performance or public display of a work under copyright law, specifically including making aspects of the Software, including any interfaces used for access to or manipulation of User Data, directly or indirectly available to the public.
+13.  "Public Performance" (or "Publicly Performing") means using the Software to take any action that implicates the rights of public performance or public display of a work under copyright law, specifically including making aspects of the Software, including any interfaces used for access to or manipulation of User Data, directly or indirectly available to the public.
 
-n.  "Recipient" means any non-Affiliate third party being offered the Software, receiving the Software, or receiving a Public Performance of any interface of the Software from You.
+14.  "Recipient" means any non-Affiliate third party being offered the Software, receiving the Software, or receiving a Public Performance of any interface of the Software from You.
 
-o.  "Software" means either Source Code or Object Code.
+15.  "Software" means either Source Code or Object Code.
 
-p.  "Source Code" means the form of the work preferred for making modifications, including any comments, design documentation, help materials, installation instructions, cryptographic keys, and any information reasonably necessary to compile the Source Code into Object Code or Process User Data using generated Object Code.
+16.  "Source Code" means the form of the work preferred for making modifications, including any comments, design documentation, help materials, installation instructions, cryptographic keys, and any information reasonably necessary to compile the Source Code into Object Code or Process User Data using generated Object Code.
 
-q.  "User Data" means any data that is either a) an input to, or b) an output from, the Work or a Modified Work, in which a third party other than the Licensee has a Lawful Interest in the data.
+17.  "User Data" means any data that is either a) an input to, or b) an output from, the Work or a Modified Work, in which a third party other than the Licensee has a Lawful Interest in the data.
 
-r.  "Work" means any original creation protectable under the patent, copyright, or database protection rights of either the Licensor's or the Licensee's jurisdiction.
+18.  "Work" means any original creation protectable under the patent, copyright, or database protection rights of either the Licensor's or the Licensee's jurisdiction.
 
 ## 7.  Other Provisions
 
