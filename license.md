@@ -184,7 +184,7 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
 11.  "Open Source License" means any license approved by the Open Source Initiative (see OpenSource.org).
 
-12.  "Process User Data" (or "Processing User Data") means:
+12. "Process User Data" (or "Processing User Data") means:
 
     1.  use a system,
 
