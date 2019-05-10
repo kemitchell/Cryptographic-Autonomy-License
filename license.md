@@ -1,4 +1,4 @@
-# Cryptographic Autonomy License version draft v1.0-Beta
+# Cryptographic Autonomy License version 1.0-Beta 2019-05-09
 
 This Cryptographic Autonomy License (the "License") applies to any Work whose owner has marked it with any of the following notices:
 
@@ -20,7 +20,7 @@ The owner may also specify in the same location as the notice a jurisdiction for
 
 Conditioned on compliance with [Conditions], and subject to the reservations of [Limitations on Grants], you have world-wide, royalty-free, non-exclusive permission to:
 
-1.  Take any action with the Work or a Modified Work that would infringe the copyright or database protection laws of an Applicable Jurisdiction applying to the Work, including Publicly Performing any interface derived from the Work, and
+1.  Take any action with the Work or a Modified Work that would infringe the copyright or database protection laws of an Applicable Jurisdiction applying to the Work, including Publicly Performing any element included in or derived from the Work, and
 
 2.  Take any action with the Work or a Modified Work that would infringe any patent claims Licensable by Licensor, to the extent that those claims are embodied in the Work as distributed by Licensor.
 
@@ -31,7 +31,7 @@ The following reservations apply to the permissions granted in [Grants]:
 
 1.  Licensor does not grant any patent license for claims that are only infringed due to the modification of the Work or the combination of the Work, directly or indirectly, with any other component, including other Software or hardware.
 
-2.  Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in [Attribution].  Describing a Modified Work as being derived from the Work, or compatible or not compatible with the Work, is allowed as a fair or nominative use.
+2.  Licensor does not grant any license to the trademarks, service marks, or logos of Licensor, except to the extent necessary to comply with the attribution conditions in [Attribution], or compatible or not compatible with the Work, is allowed as a fair or nominative use.
 
 ## Conditions
 [Conditions]: #conditions
@@ -43,11 +43,11 @@ The following conditions apply to any exercise of the permissions given in [Gran
 
 You must:
 
-1.  retain all copyright, patent, or trademark notices contained in the Source Code, as well as any notices of licensing, authorship, or attribution, and 
+1.  retain all copyright, patent, or trademark notices contained in the Source Code, as well as any notices of licensing, authorship, or attribution, and
 
 2.  provide all such notices to each Recipient, together with a statement acknowledging the use of the Software.
 
-Notices may be provided directly to a Recipient or via an easy-to-find hyperlink to an Internet location also providing Access to Source Code. 
+Notices may be provided directly to a Recipient or via an easy-to-find hyperlink to an Internet location also providing Access to Source Code.
 
 ### Licensed Distribution
 [Licensed Distribution]: #licensed-distribution
@@ -62,7 +62,7 @@ Subject to the exception in [Combined Work Exception], You must provide to each 
 #### Distribution of Source Code for a Modified Work
 [Distribution of Source Code for a Modified Work]: #distribution-of-source-code-for-a-modified-work
 
-Subject to the exception in [Combined Work Exception], You must provide to each Recipient of a Modified Work Access to Source Code corresponding to those portions of the Work remaining in the Modified Work as well as  the modifications used by You to create the Modified Work.  The Source Code corresponding to the modifications in a Modified Work must be provided to the Recipient either:
+Subject to the exception in [Combined Work Exception], You must provide to each Recipient of a Modified Work Access to Source Code corresponding to those portions of the Work remaining in the Modified Work as well as the modifications used by You to create the Modified Work.  The Source Code corresponding to the modifications in a Modified Work must be provided to the Recipient either:
 
 1.  under this License, or
 
@@ -81,7 +81,7 @@ You may not, by means of cryptographic controls, technological protection measur
 #### Provide Copies of User Data
 [Provide Copies of User Data]: #provide-copies-of-user-data
 
-Throughout any period in which You exercise any of the permissions granted to You under this License, You must also provide to any third party with which you have an enforceable legal agreement, a no-charge copy, provided in a commonly used electronic form, of the User Data in your possession in which that third party has a Lawful Interest, to the extent that such User Data is available to You for use in conjunction with the Work.
+Throughout any period in which You exercise any of the permissions granted to You under this License, You must also provide to any Recipient third party to whom You provide services using the Work, a no-charge copy, provided in a commonly used electronic form, of the User Data in your possession in which that third party has a Lawful Interest, to the extent that such User Data is available to You for use in conjunction with the Work.
 
 #### No Abusing Capabilities
 [No Abusing Capabilities]: #no-abusing-capabilities
@@ -123,7 +123,7 @@ The term of this License begins when You receive the Work, and continues until t
 
 This License terminates automatically if You fail to comply with any of the conditions in [Conditions].  As a special exception to termination for non-compliance, Your permissions for the Work under this License will automatically be reinstated if You come into compliance with all the conditions in [Conditions] within sixty days of being notified by Licensor or an intended third party beneficiary of Your noncompliance.  You are eligible for reinstatement of permissions for the Work one time only, and only for the sixty days immediately after becoming aware of noncompliance.  Loss of permissions granted for the Work under this License due to either:
 
-1.  sustained noncompliance lasting more than sixty days or 
+1.  sustained noncompliance lasting more than sixty days or
 
 2.  subsequent termination for noncompliance after reinstatement
 
@@ -150,7 +150,7 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 ## Definitions
 [Definitions]: #definitions
 
-1.  "Access to Source Code" means any of 
+1.  "Access to Source Code" means any of:
 
     1.  a copy of or
 
@@ -196,13 +196,13 @@ Under no circumstances and under no legal theory, whether in tort (including neg
 
     2.  perform a method, or
 
-    3.  cause any other party to use a system or perform a method,
+    3.  cause any other party to use a system or perform a method
 
     using at least in part the Work provided under this License, where User Data is an input or an output to the system or method.
 
 13. "Public Performance" (or "Publicly Performing") means using the Software to take any action that implicates the rights of public performance or public display of a work under copyright law, specifically including making aspects of the Software, including any interfaces used for access to or manipulation of User Data, directly or indirectly available to the public.
 
-14. "Recipient" means any non-Affiliate third party being offered the Software, receiving the Software, or receiving a Public Performance of any interface of the Software from You.
+14. "Recipient" means any non-Affiliate third party being offered the Software, receiving the Software, or receiving a Public Performance of any element of the Software from You.
 
 15. "Software" means either Source Code or Object Code.
 
@@ -244,7 +244,7 @@ This License is not sublicensable.  Each time You provide the Work or a Modified
 ### Attorneys' Fees
 [Attorneys' Fees]: #attorneys-fees
 
-In any action to enforce the terms of this License, or seeking damages relating thereto,  including by an intended third party beneficiary, the prevailing party shall be entitled to recover its costs and expenses, including, without limitation, reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action.  [Attorneys' Fees] shall survive the termination of this License.
+In any action to enforce the terms of this License, or seeking damages relating thereto, including by an intended third party beneficiary, the prevailing party shall be entitled to recover its costs and expenses, including, without limitation, reasonable attorneys' fees and costs incurred in connection with such action, including any appeal of such action.  [Attorneys' Fees] shall survive the termination of this License.
 
 ### No Waiver
 [No Waiver]: #no-waiver
